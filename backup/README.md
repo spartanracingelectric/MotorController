@@ -1,3 +1,7 @@
-##MotorController Backup Firmware and Setting
+## MotorController Backup Firmware and Setting
 
-The motor setting is calibrated in May 2021 for SRE-5
+Save old version of firmware of motorcontroller for backup purpose
+
+If something goes wrong, we should try to rollback to this version
+
+The motor setting was calibrated in May 2021 for SRE-5
