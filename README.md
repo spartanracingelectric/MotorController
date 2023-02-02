@@ -38,6 +38,13 @@ RMS GUI is assotiate with firmware version and system pre-defined values, and th
 3. HV present (either through CAN or turning on HV // No need for RTD)
 4. Open RMS Gui (correct folder version) and set
 
+Editing on RMS Gui
+- Go to EEPROM Settings to change various parameters
+- Double click to edit values (program is slow so it takes a bit)
+- Press refresh button to go back to default settings (overall refresh)
+- Press load EEPROM values to give it a EEPROM file that is saved locally
+- Press Program EEPROM values button to send the new settings to the motor controller
+
 
 ### How to flash the firmware
 
