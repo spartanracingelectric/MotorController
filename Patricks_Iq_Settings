@@ -32,14 +32,14 @@ CAN_Command_Message_Active_EEPROM     ,      1
 CAN_Bit_Rate_EEPROM_(kbps)            ,    500  
 CAN_ACTIVE_MSGS_EEPROM_(Lo_Word)      ,  65535  
 CAN_ACTIVE_MSGS_EEPROM_(Hi_Word)      ,  65535  
-CAN_Fast_Msg_Rate_EEPROM_(ms)         ,    100  
+CAN_Fast_Msg_Rate_EEPROM_(ms)         ,     10  
 CAN_Slow_Msg_Rate_EEPROM_(ms)         ,    100  
 CAN_Diag_Data_Tx_Active_EEPROM        ,      1  
 CAN_Inv_Enab_Switch_Active_EEPROM     ,      0  
 CAN_TimeOut_(/3ms)_EEPROM             ,    166  
 CAN_Slave_Cmd_ID_EEPROM               ,      0  
 CAN_Slave_Dir_EEPROM_(0=SAME_1=FLIP)  ,      0  
-IQ_Limit_EEPROM_(Amps)_x_10           ,   3000  
+IQ_Limit_EEPROM_(Amps)_x_10           ,   3500  
 ID_Limit_EEPROM_(Amps)_x_10           ,   1200  
 Amp_Hours_EEPROM_(AHrx10)             ,      0  
 DC_Volt_Limit_EEPROM_(V)_x_10         ,   4200  
